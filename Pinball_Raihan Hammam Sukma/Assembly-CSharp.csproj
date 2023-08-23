@@ -74,6 +74,7 @@
     <Compile Include="Assets\Script\Trigger Zoom Controller.cs" />
     <Compile Include="Assets\Script\Main Menu UI Controller.cs" />
     <Compile Include="Assets\Script\LauncherController.cs" />
+    <Compile Include="Assets\Script\CreditUIController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
